@@ -17,6 +17,5 @@ a1=a[0:akt+1].capitalize()
 a2=a[akt+1:]
 c=a1+a2
 # ouput
-print(a2)
 print(a)
 print(c)
